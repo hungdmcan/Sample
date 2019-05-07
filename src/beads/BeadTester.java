@@ -22,7 +22,7 @@ public class BeadTester
       for (int i = 0; i < index; i++) {
          p[i] = word.charAt(i);
       }
-      for (int j = index - 1; j > = 0; j--) {
+      for (int j = index - 1; j >= 0; j--) {
          System.out.print(p[j]);
       }
 
